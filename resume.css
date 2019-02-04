@@ -1,0 +1,40 @@
+
+body {
+    font-family: "Helvetica";
+    background-color: White;
+    color: navy;
+    font-size: 16px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+
+h1, h2, h3 {
+  
+}
+
+/* title of section */
+h1 {
+	text-align: center;
+	background-color: yellow;
+	font-size: 20px;
+}
+
+/* employer or group name */
+h2 {
+    
+    font-size: 20px;
+    text-align: left;
+}
+
+/* my position name */
+h3 {
+	color: grey;
+    font-size: 20px;
+    text-align: left;
+    font-style: italic;
+}
+
+
+
