@@ -1,0 +1,28 @@
+body {
+	background-color: #f7ede2; /* off-white */
+    font-family: "Helvetica";
+    font-size: 18px;
+
+	text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 {
+	text-align: center;
+    color: #f7ede2; /* off-white */
+	background-color: #f6bd60; /* yellow-orange */
+	font-size: 24px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+h2 {
+    color: #f28482; /* dark pink */
+}
+
+img.resize{
+    max-width: 70%;
+    max-height: 70%;
+        
+}

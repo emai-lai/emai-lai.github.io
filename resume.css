@@ -39,3 +39,15 @@ p {
     font-size: 14px;
 }
 
+/* photo */
+h4 {
+    text-align: center;
+}
+
+
+
+img.resize{
+    max-width: 50%;
+    max-height: 50%;
+        
+}
