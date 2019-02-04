@@ -1,40 +1,41 @@
 
 body {
     font-family: "Helvetica";
-    background-color: White;
-    color: navy;
-    font-size: 16px;
+    background-color: #f7ede2; /* off-white */
+
     margin-left: 20%;
     margin-right: 20%;
 }
 
 
-
 h1, h2, h3 {
-  
+    font-size: 18px;
+    text-align: left;
 }
 
 /* title of section */
 h1 {
 	text-align: center;
-	background-color: yellow;
+    color: #f7ede2; /* off-white */
+	background-color: #f6bd60; /* yellow-orange */
 	font-size: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 /* employer or group name */
 h2 {
-    
-    font-size: 20px;
-    text-align: left;
+    color: #f28482; /* dark pink */
 }
 
 /* my position name */
 h3 {
-	color: grey;
-    font-size: 20px;
-    text-align: left;
+	color: #e5b3ac; /* light pink */
     font-style: italic;
 }
 
-
+p {
+    color: #84a59d; /* teal */
+    font-size: 14px;
+}
 
