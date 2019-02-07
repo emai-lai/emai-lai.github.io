@@ -1,7 +1,9 @@
 
 body {
     font-family: "Helvetica";
+    font-size: 18px;
     background-color: #f7ede2; /* off-white */
+    text-align: left;
 
     margin-left: 20%;
     margin-right: 20%;
@@ -9,8 +11,8 @@ body {
 
 
 h1, h2, h3 {
-    font-size: 18px;
-    text-align: left;
+    
+    
 }
 
 /* title of section */
@@ -34,20 +36,21 @@ h3 {
     font-style: italic;
 }
 
+/* for centering on index page */
+h4 {
+    color: #f28482; /* dark pink */
+    text-align: center;
+}
+
 p {
     color: #84a59d; /* teal */
     font-size: 14px;
 }
 
-/* photo */
-h4 {
-    text-align: center;
+/* for profile picture */
+img.resize {
+    max-width: 70%;
+    max-height: 70%;
 }
 
 
-
-img.resize{
-    max-width: 50%;
-    max-height: 50%;
-        
-}
